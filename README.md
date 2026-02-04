@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Omidreza Dehghanpour
 
-🚀 **PHP Developer | WordPress Technical Support | Frontend Enthusiast**
+🚀 **PHP Developer | WordPress Technical Support**
 
 ---
 
