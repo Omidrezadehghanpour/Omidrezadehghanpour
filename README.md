@@ -17,6 +17,7 @@
 ### 📂 Featured Project
 
 - **[RankFlow](https://rankflow.ir)** — Public SEO keyword-research & rank-tracking tool, built with Laravel. Handles large-scale rank crawling without data-volume limits.
+- **students.job** — Personal project: a user & employer registration/profile management platform (private repository)
 
 ---
 
